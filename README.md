@@ -2,5 +2,5 @@
 
 
 
-Notes from my journey to deep understand AI.
+Notes from my journey to deep understanding AI.
 
